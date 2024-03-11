@@ -109,6 +109,7 @@ kubectl delete -f 05-remove-zookeeper.yaml
 ```
 
 Get information about the migration job after it's completed
+![Screenshot](https://github.com/mcascallares/kraft-migration-with-cfk/blob/11294baca88c486406903e273608e7b104559f20/migrationjob.png)
 
 ## Resources
 
