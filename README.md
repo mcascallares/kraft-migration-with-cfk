@@ -108,6 +108,8 @@ Remove the Zookeeper nodes
 kubectl delete -f 05-remove-zookeeper.yaml
 ```
 
+Get information about the migration job after it's completed
+
 ## Resources
 
 - https://docs.confluent.io/operator/current/co-migrate-kraft.html
