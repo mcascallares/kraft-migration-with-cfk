@@ -1,4 +1,4 @@
-# CSE Day - Zookeeper to Kraft with CFK
+# Zookeeper to Kraft with CFK
 
 ## Requirements
 
